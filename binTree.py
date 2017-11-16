@@ -1,5 +1,5 @@
 '''
-@author: nayeem
+@author: Mirav Gokani
 '''
 
 # Practicing binary search tree algorithms
